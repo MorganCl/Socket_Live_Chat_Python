@@ -34,19 +34,19 @@ This simple chat program consists of a server and a client implemented in Python
 
     bash
 
-cd chat-program
+	cd chat-program
 
-Run the server:
+	Run the server:
 
-bash
+	bash
 
-python server.py <IP_address> <port_number>
+	python server.py <IP_address> <port_number>
 
-Replace <IP_address> and <port_number> with the desired IP address and port number.
+	Replace <IP_address> and <port_number> with the desired IP address and port number.
 
-Run the client:
+	Run the client:
 
-bash
+	bash
 
     python client.py <IP_address> <port_number>
 
